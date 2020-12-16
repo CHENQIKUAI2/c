@@ -1,2 +1,2 @@
 - [x] hello 
-- [] test for 复选框
+- [ ] test for 复选框
