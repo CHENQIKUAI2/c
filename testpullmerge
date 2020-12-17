@@ -1,0 +1,2 @@
+pull request后
+观察项目维护者点击merge按钮前后，本地使用git ls-remote看到内容的区别
